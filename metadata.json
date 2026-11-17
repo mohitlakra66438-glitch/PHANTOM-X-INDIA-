@@ -1,0 +1,6 @@
+{
+  "name": "Phantom X",
+  "description": "Cyberpunk gaming telemetry dashboard and floating FPS overlay UI for Phantom X India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
